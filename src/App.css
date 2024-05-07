@@ -1,0 +1,10 @@
+.product-table {
+	display: flex;
+
+	justify-content: center;
+}
+
+.searchbar-container {
+	display: flex;
+	flex-direction: column;
+}
